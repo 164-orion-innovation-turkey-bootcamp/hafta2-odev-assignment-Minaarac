@@ -1,5 +1,9 @@
 # Hamburger Hazırlama Projesi:
 
+![tavuk](https://user-images.githubusercontent.com/72521597/157002412-8bb3ee0a-3e94-4090-9016-24b3fde1b121.PNG)
+![köfte](https://user-images.githubusercontent.com/72521597/157002416-53cbb3a4-d653-4fbe-9b54-2269e90af22b.PNG)
+
+
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
 Marul
 Turşu  
